@@ -19,6 +19,9 @@ jobs: # список работ, которые будут производит�
       - name: Install pipenv
         run: python -m pip install pipenv
 
+      - name: Install pyTest
+        run: pip install pytest
+
       - name: Start tests
         run: pipenv run python -m pytest my_tests.py
 
