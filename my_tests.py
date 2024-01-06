@@ -1,4 +1,5 @@
 import FastLab
+import pytest
 
 def test1():
     assert FastLab.sum_two_args(2,2) == 4

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="added tests">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/my.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/my.yaml" afterDir="false" />
+    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="added installation of pytest">
+      <change beforePath="$PROJECT_DIR$/my_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704523601446</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added installation of pytest">
+      <created>1704523760673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704523760673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +119,7 @@
     <MESSAGE value="lab 1 start" />
     <MESSAGE value="added yaml" />
     <MESSAGE value="added tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tests" />
+    <MESSAGE value="added installation of pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="added installation of pytest" />
   </component>
 </project>
