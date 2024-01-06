@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="add requirements">
+    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="hotFix1">
       <change beforePath="$PROJECT_DIR$/.github/workflows/my.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/my.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704525764158</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hotFix1">
+      <created>1704525826605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704525826605</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +159,7 @@
     <MESSAGE value="test 1" />
     <MESSAGE value="test 2" />
     <MESSAGE value="add requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="add requirements" />
+    <MESSAGE value="hotFix1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotFix1" />
   </component>
 </project>
