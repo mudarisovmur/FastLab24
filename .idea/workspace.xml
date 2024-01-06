@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="test 1">
+    <list default="true" id="d91a9fb3-a048-4a82-94d5-7f3ab7a101c6" name="Changes" comment="test 2">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/my.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/my.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FastLab24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FastLab24.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastLab.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastLab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704524192949</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test 2">
+      <created>1704524336260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704524336260</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +147,7 @@
     <MESSAGE value="added installation of pytest" />
     <MESSAGE value="added import of pytest" />
     <MESSAGE value="test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 1" />
+    <MESSAGE value="test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 2" />
   </component>
 </project>
